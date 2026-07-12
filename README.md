@@ -101,7 +101,7 @@ constellation.
 
 ### 3.0 Classical baseline: simulation matches theory
 
-![BER vs theory](figures/classsical_baseline)
+![BER vs theory](figures/classical_baseline)
 
 Simulated QPSK BER (1M bits, nearest-neighbour detection) sits on the analytical
 `Q(√(2Eb/N₀))` curve across 0–10 dB. This validates the transmitter, channel model,
